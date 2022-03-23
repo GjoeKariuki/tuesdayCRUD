@@ -1,0 +1,382 @@
+{
+  "counties_demo_data": [
+    {
+      "admin_name": "Nairobi Municipality",
+      "lat": -1.2864,
+      "lng": 36.8172,
+      "population": "5545000",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "admin_name": "Meru",
+      "lat": 0.05,
+      "lng": 37.65,
+      "population": "1833000"
+    },
+    {
+      "id": 3,
+      "admin_name": "Mombasa",
+      "lat": -4.05,
+      "lng": 39.6667,
+      "population": "1200000"
+    },
+    {
+      "id": 4,
+      "admin_name": "Kisumu",
+      "lat": -0.1,
+      "lng": 34.75,
+      "population": "409928"
+    },
+    {
+      "id": 5,
+      "admin_name": "Nakuru",
+      "lat": -0.2833,
+      "lng": 36.0667,
+      "population": "307990"
+    },
+    {
+      "id": 6,
+      "admin_name": "Uasin Gishu",
+      "lat": 0.5167,
+      "lng": 35.2833,
+      "population": "193830"
+    },
+    {
+      "id": 7,
+      "admin_name": "Machakos",
+      "lat": -1.5167,
+      "lng": 37.2667,
+      "population": "114109"
+    },
+    {
+      "id": 8,
+      "admin_name": "Kisii",
+      "lat": -0.6698,
+      "lng": 34.7675,
+      "population": "112417"
+    },
+    {
+      "id": 9,
+      "admin_name": "Kakamega",
+      "lat": 0.3333,
+      "lng": 34.4833,
+      "population": "99987"
+    },
+    {
+      "id": 10,
+      "admin_name": "Kiambu",
+      "lat": -1.0396,
+      "lng": 37.09,
+      "population": "99322"
+    },
+    {
+      "id": 11,
+      "admin_name": "Nyeri",
+      "lat": -0.4167,
+      "lng": 36.95,
+      "population": "98908"
+    },
+    {
+      "id": 12,
+      "admin_name": "Kilifi",
+      "lat": -3.21,
+      "lng": 40.1,
+      "population": "94016"
+    },
+    {
+      "id": 13,
+      "admin_name": "Kakamega",
+      "lat": 0.2833,
+      "lng": 34.75,
+      "population": "91778"
+    },
+    {
+      "id": 14,
+      "admin_name": "Homa Bay",
+      "lat": -0.3596,
+      "lng": 34.64,
+      "population": "91248"
+    },
+    {
+      "id": 15,
+      "admin_name": "Turkana",
+      "lat": 3.1167,
+      "lng": 35.6,
+      "population": "82970"
+    },
+    {
+      "admin_name": "Machakos",
+      "lat": -1.45,
+      "lng": "36.9833987",
+      "population": "81302",
+      "id": 16
+    },
+    {
+      "id": 17,
+      "admin_name": "Kilifi",
+      "lat": -3.6333,
+      "lng": 39.85,
+      "population": "80339"
+    },
+    {
+      "id": 18,
+      "admin_name": "Bomet",
+      "lat": -0.6796,
+      "lng": 35.12,
+      "population": "71285"
+    },
+    {
+      "id": 19,
+      "admin_name": "Garissa",
+      "lat": -0.4569,
+      "lng": 39.6583,
+      "population": "65881"
+    },
+    {
+      "id": 20,
+      "admin_name": "Trans Nzoia",
+      "lat": 1.0167,
+      "lng": 35,
+      "population": "63245"
+    },
+    {
+      "id": 21,
+      "admin_name": "Bungoma",
+      "lat": 0.5666,
+      "lng": 34.5666,
+      "population": "55857"
+    },
+    {
+      "id": 22,
+      "admin_name": "Isiolo",
+      "lat": 0.35,
+      "lng": 37.5833,
+      "population": "45989"
+    },
+    {
+      "id": 23,
+      "admin_name": "Wajir",
+      "lat": 1.75,
+      "lng": 40.0667,
+      "population": "45771"
+    },
+    {
+      "id": 24,
+      "admin_name": "Embu",
+      "lat": -0.5333,
+      "lng": 37.45,
+      "population": "41092"
+    },
+    {
+      "id": 25,
+      "admin_name": "Taita/Taveta",
+      "lat": -3.3696,
+      "lng": 38.57,
+      "population": "36487"
+    },
+    {
+      "id": 26,
+      "admin_name": "Homa Bay",
+      "lat": -0.5167,
+      "lng": 34.45,
+      "population": "32174"
+    },
+    {
+      "id": 27,
+      "admin_name": "Laikipia",
+      "lat": 0.0167,
+      "lng": 37.0667,
+      "population": "31577"
+    },
+    {
+      "id": 28,
+      "admin_name": "Busia",
+      "lat": 0.4608,
+      "lng": 34.1108,
+      "population": "30777"
+    },
+    {
+      "id": 29,
+      "admin_name": "Mandera",
+      "lat": 3.9167,
+      "lng": 41.8333,
+      "population": "30433"
+    },
+    {
+      "id": 30,
+      "admin_name": "Kericho",
+      "lat": -0.3692,
+      "lng": 35.2839,
+      "population": "30023"
+    },
+    {
+      "id": 31,
+      "admin_name": "Kitui",
+      "lat": -1.3667,
+      "lng": 38.0167,
+      "population": "29062"
+    },
+    {
+      "id": 32,
+      "admin_name": "Samburu",
+      "lat": 1.1,
+      "lng": 36.7,
+      "population": "20841"
+    },
+    {
+      "id": 33,
+      "admin_name": "Lamu",
+      "lat": -2.2686,
+      "lng": 40.9003,
+      "population": "18382"
+    },
+    {
+      "id": 34,
+      "admin_name": "Nandi",
+      "lat": 0.2,
+      "lng": 35.1,
+      "population": "17918"
+    },
+    {
+      "id": 35,
+      "admin_name": "Marsabit",
+      "lat": 2.3333,
+      "lng": 37.9833,
+      "population": "17127"
+    },
+    {
+      "id": 36,
+      "admin_name": "Tana River",
+      "lat": -1.5,
+      "lng": 40.03,
+      "population": "6931"
+    },
+    {
+      "id": 37,
+      "admin_name": "Kiambu",
+      "lat": -1.1714,
+      "lng": 36.8356,
+      "population": ""
+    },
+    {
+      "id": 38,
+      "admin_name": "Baringo",
+      "lat": 0.4919,
+      "lng": 35.743,
+      "population": ""
+    },
+    {
+      "id": 39,
+      "admin_name": "Migori",
+      "lat": -1.0634,
+      "lng": 34.4731,
+      "population": ""
+    },
+    {
+      "id": 40,
+      "admin_name": "Kirinyaga",
+      "lat": -0.4989,
+      "lng": 37.2803,
+      "population": ""
+    },
+    {
+      "id": 41,
+      "admin_name": "Elgeyo/Marakwet",
+      "lat": 0.6703,
+      "lng": 35.5081,
+      "population": ""
+    },
+    {
+      "id": 42,
+      "admin_name": "Nyamira",
+      "lat": -0.5633,
+      "lng": 34.9358,
+      "population": ""
+    },
+    {
+      "id": 43,
+      "admin_name": "Murang’a",
+      "lat": -0.721,
+      "lng": 37.1526,
+      "population": ""
+    },
+    {
+      "id": 44,
+      "admin_name": "Bomet",
+      "lat": -0.7813,
+      "lng": 35.3416,
+      "population": ""
+    },
+    {
+      "id": 45,
+      "admin_name": "Siaya",
+      "lat": 0.0607,
+      "lng": 34.2881,
+      "population": ""
+    },
+    {
+      "id": 46,
+      "admin_name": "West Pokot",
+      "lat": 1.2389,
+      "lng": 35.1119,
+      "population": ""
+    },
+    {
+      "id": 47,
+      "admin_name": "Makueni",
+      "lat": -1.7808,
+      "lng": 37.6288,
+      "population": ""
+    },
+    {
+      "id": 48,
+      "admin_name": "Taita/Taveta",
+      "lat": -3.505,
+      "lng": 38.3772,
+      "population": ""
+    },
+    {
+      "id": 49,
+      "admin_name": "Kajiado",
+      "lat": -1.85,
+      "lng": 36.7833,
+      "population": ""
+    },
+    {
+      "id": 50,
+      "admin_name": "Nyandarua",
+      "lat": -0.2643,
+      "lng": 36.3788,
+      "population": ""
+    },
+    {
+      "id": 51,
+      "admin_name": "Narok",
+      "lat": -1.0833,
+      "lng": 35.8667,
+      "population": ""
+    },
+    {
+      "id": 52,
+      "admin_name": "Kwale",
+      "lat": -4.1737,
+      "lng": 39.4521,
+      "population": ""
+    },
+    {
+      "id": 53,
+      "admin_name": "Laikipia",
+      "lat": 0.2725,
+      "lng": 36.5381,
+      "population": ""
+    },
+    {
+      "admin_name": "Wamagana",
+      "lat": "0.12323",
+      "lng": "1.32232",
+      "population": "1500",
+      "id": 54
+    }
+  ]
+}

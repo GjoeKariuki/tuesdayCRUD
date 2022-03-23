@@ -1,0 +1,27 @@
+
+<div mat-dialog-content>
+    <h1 mat-dialog-title>add records here!</h1>
+    <form [formGroup]="recordsForm" >
+        <mat-form-field appearance="outline">
+            <mat-label>city name</mat-label>
+            <input formControlName="admin_name" matInput placeholder="Name" />
+        </mat-form-field>
+        <mat-form-field appearance="outline">
+            <mat-label>latitude</mat-label>
+            <input formControlName="lat" matInput placeholder="Name" />
+        </mat-form-field>
+        <mat-form-field appearance="outline">
+            <mat-label>Longitude</mat-label>
+            <input formControlName="lng" matInput placeholder="Name" />
+        </mat-form-field>
+        <mat-form-field appearance="outline">
+            <mat-label>Population</mat-label>
+            <input formControlName="population" matInput placeholder="Name" />
+        </mat-form-field>
+    </form>
+</div>
+
+<div mat-dialog-action [align]="'right'">
+    <button mat-raised-button color="warn" mat-dialog-close>Close</button>
+    <button style="margin-left: 8px;" mat-raised-button color="primary" (click)="addRecord()">{{actionBtn}}</button>
+</div>
